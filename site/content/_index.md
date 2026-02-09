@@ -1,9 +1,9 @@
 ---
-title: Welkom bij afdeling publieksfrustratie
-subtitle: "Nog 3 wachtenden voor u... "
+title: Afdeling Publieksfrustratie
+subtitle: "Nog drie wachtenden voor u... "
 image: https://images.pexels.com/photos/6963849/pexels-photo-6963849.jpeg
 blurb:
-  heading: Afdeling Publieksfrustratie
+  heading: Bureaucratie als kunstvorm
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
