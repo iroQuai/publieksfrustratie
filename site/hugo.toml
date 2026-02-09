@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "nl-nl"
+languageLang = "nl"
 title = "Afdeling Publieksfrustratie"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
