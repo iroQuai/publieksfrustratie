@@ -4,11 +4,10 @@ type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
-  description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+  description: Kaldi is the ultimate spot for coffee lovers who want to learn
+    about their java’s origin and support the farmers that grew it. We take
+    coffee production, roasting and brewing seriously and we’re glad to pass
+    that knowledge to anyone.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
@@ -46,51 +45,44 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/img-20250702-wa0002.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: "Nee daar kan ik u echt niet mee verder helpen. "
+    image: img/img-20230828-wa0055.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: de oorkonde is in bezet!
+    image: img/img-20230826-wa0058.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Naamloze klant
+    quote: Wat een prachtig papierwinkelfestijn was dit zeg! Van het kastje naar de
+      muur was nog nooit zo leuk
+  - author: Mevr. Van langestof - Loket 2
+    quote: Euhm nee sorry, daar kan ik u echt niet mee helpen. Misschien bij Loket 3?
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: het kastje of de muur?
+  description: Voor ieder budget een geschikte optie; een klein kastje of een
+    flinke muur zijn beiden mogelijk!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: DIY spelkoffer om de hele papierhandel te fixen met je eigen mensen
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - uitgebreide speluitleg
+        - stempels en documenten
+        - voor je eigen medewerkers
+      plan: "Archiefkoffer "
+      price: "80"
+    - description: de hele afdeling komt als randprogramma naar je festival
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - geen omkijken naar
+        - alle ambtenaren volledigin kostuum
+        - straattheater op zich
+      plan: Hele theatrale bende
+      price: "750"
+    - description: het kan altijd groter beter en wilder - neem contact op
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - aangepaste documenten
+        - beeld merken op alle media
+        - bepaal zelf de prijs
       plan: Custom
-      price: '?'
+      price: "?"
 ---
-
-
