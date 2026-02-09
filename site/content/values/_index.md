@@ -1,6 +1,6 @@
 ---
-title: Values
-image: /img/about-jumbotron.jpg
+title: Voor organisatoren
+image: img/img-20230828-wa0061.jpg
 values:
   - heading: Doorlopend programma
     text: >
