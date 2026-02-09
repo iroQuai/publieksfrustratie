@@ -1,7 +1,7 @@
 ---
 title: Afdeling Publieksfrustratie
 subtitle: Trek een nummertje en neem rustig plaats
-image: https://images.pexels.com/photos/6963849/pexels-photo-6963849.jpeg
+image: img/img-20250702-wa0002.jpg
 blurb:
   heading: Welkom
   text: Afdeling Publieksfrustratie biedt een zorgvuldig ontworpen ambtelijk
